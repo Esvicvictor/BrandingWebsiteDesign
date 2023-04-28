@@ -1,0 +1,233 @@
+.navBar {
+    display: flex;
+    gap: 5rem;
+}
+
+.navBar h3 {
+    width: 50rem;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: -17rem;
+}
+
+.bag {
+    color: red;
+    padding-right: .3rem;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+.navigations {
+    width: 29.6rem;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+    color: white;
+    padding: 1rem 2rem;
+    margin-left: -7rem;
+}
+
+.cover {
+    background-color: black;
+    height: 2.5rem;
+    text-align: center;
+    color: white;
+}
+
+.B-image {
+    position: relative;
+    width: 75.6rem;
+    -webkit-mask-image: linear-gradient(to left, rgb(0, 0, 0), transparent);
+    mask-image: linear-gradient(to left, rgb(0, 0, 0), transparent);
+}
+
+.job {
+    position: absolute;
+    top: 23rem;
+    width: 17rem;
+    padding-left: 16rem;
+}
+
+.first {
+    padding-bottom: 1rem;
+    margin-top: -.4rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+
+.second {
+    margin-top: -.5rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.third {
+    margin-top: 3rem;
+}
+
+.btnBlap {
+    background-color: red;
+    height: 2.7rem;
+    width: 7rem;
+    border: 1px solid red;
+    color: white;
+}
+
+.rat {
+    position: relative;
+    width: 38rem;
+    margin-top: -.3rem;
+}
+
+.joy {
+    width: 27.6rem;
+    background-color: black;
+    color: white;
+    height: 31rem;
+    position: absolute;
+    margin-top: -47.8rem;
+    margin-left: 38rem;
+    padding-left: 10rem;
+    padding-top: 8rem;
+    padding-bottom: -5rem;
+}
+
+.run {
+    color: red;
+}
+
+.jump {
+    width: 27.6rem;
+    height: 40rem;
+    position: absolute;
+    background-color: red;
+    color: white;
+    padding-left: 20rem;
+    margin-left: 28rem;
+    margin-top: -32rem;
+    padding-top: 7rem;
+}
+
+.loop {
+    width: 25rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 16rem;
+    margin-top: 9rem;
+    z-index: -1;
+    position: relative;
+    z-index: 99;
+    font-weight: bolder;
+}
+
+.july {
+    position: relative;
+    width: 47.5rem;
+    margin-left: 28.1rem;
+    height: 35rem;
+    margin-top: -22rem;
+    margin-bottom: 20rem;
+}
+
+.zappy {
+    width: 24rem;
+    background-color: black;
+    color: white;
+    height: 14rem;
+    padding-top: 5rem;
+    padding-left: 13rem;
+    margin-bottom: 3rem;
+    margin-top: 7rem;
+    margin-right: 3rem;
+    z-index: -1;
+    position: relative;
+    z-index: 99;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+.last {
+    width: 70rem;
+    display: flex;
+    gap: 25rem;
+    margin-left: 8rem;
+    margin-bottom: 35rem;
+    margin-top: -13rem;
+}
+
+.last2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding-left: 8rem;
+}
+
+.last3 {
+    height: 5.5rem;
+    width: 16rem;
+    background-color: red;
+    color: white;
+    text-align: center;
+    border: 1px solid red;
+}
+
+.titi {
+    font-size: xx-large;
+    opacity: .5;
+    z-index: 1;
+    position: relative;
+    z-index: 99;
+}
+
+.big {
+    font-size: xx-large;
+}
+
+.big2 {
+    opacity: .8;
+}
+
+.creative {
+    padding-left: 11rem;
+}
+
+.let {
+    padding-left: 3rem;
+}
+
+h5 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.approach {
+    font-size: x-large;
+    font-weight: 800;
+}
+
+.roadmap {
+    position: relative;
+    z-index: -1;
+    z-index: 99;
+    margin-left: 47rem;
+    width: 19rem;
+    padding-right: 20rem;
+    text-align: end;
+    padding-right: 3rem;
+    padding-left: 4rem;
+    top: 12.5rem;
+}
+
+.learn {
+    margin-bottom: -1.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: x-large;
+}
+
+.proj {
+    color: rgba(29, 24, 24, 0.532);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: x-large;
+}
